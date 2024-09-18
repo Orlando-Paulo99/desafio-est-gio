@@ -14,7 +14,7 @@ sequencia=[ 0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 
 " um loop que vai somar os dois ultimos números  da sequencia"
 for x in range(2,novo_num):
-    "somando os dois ultimos nomes"
+    "calculando o uktmi e o penultimo numero"
     prox=sequencia[-1] + sequencia[-2]
 
     "verificando se o numero calculado é maior que ummero digitado e adicionando a lista"
